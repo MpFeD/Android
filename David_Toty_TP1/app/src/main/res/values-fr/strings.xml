@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">David_Toty_TP1</string>
+    <string name="b1">1</string>
+    <string name="b2">2</string>
+    <string name="b3">3</string>
+    <string name="b4">4</string>
+    <string name="b5">5</string>
+    <string name="b6">6</string>
+    <string name="b7">7</string>
+    <string name="b8">8</string>
+    <string name="bravo">Bravo !</string>
+    <string name="end">La fin</string>
+    <string name="yes">OUI</string>
+    <string name="no">NON</string>
+    <string name="replay">Rejouer</string>
+</resources>

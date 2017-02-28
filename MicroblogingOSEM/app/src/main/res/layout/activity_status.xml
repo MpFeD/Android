@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background">
+
+    <!-- TextView for the Status Update title -->
+    <TextView android:id="@+id/statusTitle"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/title_status"
+        android:textSize="30sp"
+        android:textColor="@android:color/white"
+        android:layout_margin="10dp" />
+
+    <!-- TextView for counting characters -->
+    <TextView android:id="@+id/textCount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:text="000"
+        android:layout_marginRight="10dp" />
+
+    <!-- EditText for editing status -->
+    <EditText android:id="@+id/editText"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:hint="@string/edit_text"
+        android:gravity="top|center_horizontal"
+        android:background="#cfff"/>
+
+    <!-- Button to update status -->
+    <Button android:id="@+id/buttonUpdate"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/button_update"
+        android:textSize="20sp" />
+
+</LinearLayout>

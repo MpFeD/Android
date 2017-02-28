@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Asdmin\Desktop\Android\David_Toty_TP1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Asdmin\Desktop\Android\David_Toty_TP1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_b2d6820b4aa9d96611c07f01b863aa940dce53d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Asdmin\Desktop\Android\David_Toty_TP1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0cc24f55acba63fa0b2495410c514c3f3d4d0512">
+        <dex dex="C:\Users\Asdmin\Desktop\Android\David_Toty_TP1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d843988bd33c034402d45d5c25dd36056001c22e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Asdmin\Desktop\Android\David_Toty_TP1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Asdmin\Desktop\Android\David_Toty_TP1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_c82b7c3533e1d28927dcb594d97cf307e6da0121\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Asdmin\Desktop\Android\David_Toty_TP1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e3bef57a0d90f7e0d75aebdab260b34fea9ea317">
+        <dex dex="C:\Users\Asdmin\Desktop\Android\David_Toty_TP1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ae69e95be1817fb13fdcbe7469ee027635d1c2b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Asdmin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Asdmin\Desktop\Android\David_Toty_TP1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_b8fb73bb12beb80f45fa207bbaecd90a88a68b78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Asdmin\Desktop\Android\David_Toty_TP1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Asdmin\Desktop\Android\David_Toty_TP1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_c1b4ff3d1dd59e36e77223c3a1b2598325d18c1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Asdmin\Desktop\Android\David_Toty_TP1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Asdmin\Desktop\Android\David_Toty_TP1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_0a57b521b5375bc8ca875789b1bbeec8d7840122\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Asdmin\Desktop\Android\David_Toty_TP1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Asdmin\Desktop\Android\David_Toty_TP1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_3e2ab639e619d9aff5209fde3d920c9e9cad3b15\classes.dex" />
+    </item>
+
+</items>

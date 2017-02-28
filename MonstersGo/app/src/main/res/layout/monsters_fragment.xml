@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/container3"
+    android:background="@color/colorWhite"
+    >
+
+    <ImageView
+    android:layout_marginTop="16dp"
+    android:layout_marginStart="100dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentStart="true"
+    android:layout_alignParentTop="true"
+    android:src="@drawable/dackass"
+    android:id="@+id/monster1"
+    />
+
+    <TextView
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="100dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="@+id/monster1"
+        android:layout_alignParentEnd="true"
+        android:text="@string/pk_d"
+        android:textColor="@color/colorGray"
+        android:textSize="20sp"
+        android:id="@+id/monsterName1"
+        />
+
+    <View
+        android:layout_marginTop="5dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_below="@id/monster1"
+        android:background="@android:color/holo_orange_dark"
+        android:id="@+id/ligne1"
+        />
+
+
+
+    <ImageView
+        android:layout_marginTop="16dp"
+        android:layout_marginStart="100dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/fantomaxus"
+        android:layout_below="@id/monster1"
+        android:id="@+id/monster2"
+        />
+
+
+    <View
+        android:layout_marginTop="5dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_below="@id/monster2"
+        android:background="@android:color/holo_orange_dark"
+        android:id="@+id/ligne2"
+        />
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/pk_f"
+        android:textColor="@color/colorGray"
+        android:textSize="20sp"
+        android:layout_alignTop="@+id/monster2"
+        android:layout_alignStart="@+id/monsterName1"
+        android:id="@+id/monsterName2"
+        />
+
+    <ImageView
+        android:layout_marginTop="16dp"
+        android:layout_marginStart="100dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/puzzleyes"
+        android:layout_below="@id/monster2"
+        android:id="@+id/monster3"
+        />
+
+
+    <View
+        android:layout_marginTop="5dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_below="@id/monster3"
+        android:background="@android:color/holo_orange_dark"
+        android:id="@+id/ligne3"
+        />
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/pk_p"
+        android:textColor="@color/colorGray"
+        android:textSize="20sp"
+        android:layout_alignTop="@+id/monster3"
+        android:layout_alignStart="@+id/monsterName2"
+        android:id="@+id/monsterName3"
+        />
+
+    <ImageView
+        android:layout_marginTop="16dp"
+        android:layout_marginStart="100dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/racailleu"
+        android:layout_below="@id/monster3"
+        android:id="@+id/monster4"
+        />
+
+
+    <View
+        android:layout_marginTop="5dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_below="@id/monster4"
+        android:background="@android:color/holo_orange_dark"
+        android:id="@+id/ligne4"
+        />
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/pk_r"
+        android:textColor="@color/colorGray"
+        android:textSize="20sp"
+        android:layout_alignTop="@+id/monster4"
+        android:layout_alignStart="@+id/monsterName1"
+        android:id="@+id/monsterName4"
+        />
+
+    <ImageView
+        android:layout_marginTop="16dp"
+        android:layout_marginStart="100dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/taupiqure"
+        android:layout_below="@id/monster4"
+        android:id="@+id/monster5"
+        />
+
+
+    <View
+        android:layout_marginTop="5dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_below="@id/monster5"
+        android:background="@android:color/holo_orange_dark"
+        android:id="@+id/ligne5"
+        />
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/pk_t"
+        android:textColor="@color/colorGray"
+        android:textSize="20sp"
+        android:layout_alignTop="@+id/monster5"
+        android:layout_alignStart="@+id/monsterName4"
+        android:id="@+id/monsterName5"
+        />
+
+    <TextView
+        android:layout_marginTop="30dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginEnd="50dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorGray"
+        android:lines="2"
+        android:textSize="20sp"
+        android:layout_below="@+id/monsterName5"
+        android:id="@+id/challenge"
+        />
+
+    <TextView
+        android:layout_marginTop="16dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginEnd="50dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorGray"
+        android:lines="2"
+        android:textSize="20sp"
+        android:layout_below="@+id/challenge"
+        android:id="@+id/score"
+        />
+
+
+
+</RelativeLayout>

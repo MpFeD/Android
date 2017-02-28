@@ -1,0 +1,33 @@
+<resources>
+    <!-- Status Activity -->
+    <string name="app_name">Yamba</string>
+    <string name="title_status">Status Update</string>
+    <string name="edit_text">Please enter your 140 character status</string>
+    <string name="button_update">Update</string>
+
+    <!-- Preferences Activity -->
+    <string name="title_prefs">Preferences</string>
+
+    <string name="titleUsername">Username</string>
+    <string name="summary_username">Please enter your Twitter username</string>
+
+    <string name="titlePassword">Password</string>
+    <string name="summary_password">Please enter your Twitter password</string>
+
+    <string name="titleApiRoot">API Root URL</string>
+    <string name="summary_api">http://yamba.newcircle.com/api</string>
+
+    <string name="title_serviceOn">Service On</string>
+    <string name="title_serviceOff">Service Off</string>
+
+    <string name="http">http://yamba.newcircle.com/api</string>
+
+
+    <string-array name="imageFor">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+</resources>
+

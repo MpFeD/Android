@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="0dp"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    tools:context="com.example.asdmin.toty_tran_monsters.com.example.asdmin.MonstersGO.MainActivity">
+
+
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/colorWhite"
+        android:layout_alignParentStart="true" />
+
+
+    <TextView
+
+        android:layout_marginTop="16dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/name"
+        android:textSize="40sp"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/colorGray"
+        android:id="@+id/textView"
+        />
+
+    <Button
+        android:layout_marginTop="32dp"
+        android:layout_marginRight="32dp"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:textAllCaps="false"
+        android:text="@string/connect"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@id/textView"
+        android:layout_alignEnd="@id/textView"
+        android:id="@+id/buttonConnect"
+        android:background="@color/colorGray"
+        />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toStartOf="@id/buttonConnect"
+        android:layout_alignTop="@id/buttonConnect"
+        android:layout_alignBottom="@id/buttonConnect"
+        android:layout_alignParentStart="true"
+        android:textAlignment="center"
+        android:background="@drawable/rounded_edittext"
+        android:inputType="text"
+        android:maxLines="1"
+        android:hint="@string/username"
+        android:layout_marginLeft="32dp"
+        android:textColor="@color/colorBlue"
+        android:textColorHint="@color/colorBlue"
+        android:id="@+id/textEdit"
+        />
+
+    <ImageView
+        android:layout_marginLeft="32dp"
+        android:layout_marginRight="32dp"
+        android:layout_marginTop="32dp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textEdit"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/taupiqurehd"
+        />
+
+</RelativeLayout>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:id="@+id/itemStatus"
+        android:title="@string/title_status"
+        android:icon="@android:drawable/ic_menu_edit"
+
+        />
+
+    <item android:id="@+id/itemPrefs"
+        android:title="@string/title_prefs"
+        android:icon="@android:drawable/ic_menu_preferences"
+
+        />
+
+    <item android:id="@+id/itemServiceOn"
+        android:title="@string/title_serviceOn"
+        android:icon="@android:drawable/ic_menu_rotate"
+
+        />
+
+    <item android:id="@+id/itemServiceOff"
+        android:title="@string/title_serviceOff"
+        android:icon="@android:drawable/button_onoff_indicator_off"
+
+        />
+</menu>

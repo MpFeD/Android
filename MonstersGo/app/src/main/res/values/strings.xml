@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Toty_3000755_Tran_3000738</string>
+    <string name="name">Monsters Go !</string>
+    <string name="username">Username</string>
+    <string name="connect">connect</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name="navigation_drawer_challenge">challenge</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_play">Play Music</string>
+    <string name="title_pause">Pause Music</string>
+    <string name="title_activity_my_nav_drawer">MyNavDrawerActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="pk_d">Dackass</string>
+    <string name="pk_f">Fantomaxus</string>
+    <string name="pk_p">Puzzleyes</string>
+    <string name="pk_r">Racailleu</string>
+    <string name="pk_t">Taupiqure</string>
+    <string name="challengeValue">Record for the challenge mission timer : </string>
+    <string name="scoreValue">Total score of monsters caught : </string>
+
+</resources>
